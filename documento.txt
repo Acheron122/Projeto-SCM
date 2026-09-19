@@ -1,1 +1,2 @@
 Projeto de Gestão de Configuração
+Arquivo atualizado durante a atividade do Git
